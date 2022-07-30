@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/alien-shop/static/css/main.aea64316.css",
+    "main.js": "/alien-shop/static/js/main.f5250672.js",
+    "static/media/crown.svg": "/alien-shop/static/media/crown.11efd40920bfcdcd1edcae819c7a20a8.svg",
+    "static/media/shopping-bag.svg": "/alien-shop/static/media/shopping-bag.a688874f6f1507316bdfa420328a4a53.svg",
+    "index.html": "/alien-shop/index.html",
+    "main.aea64316.css.map": "/alien-shop/static/css/main.aea64316.css.map",
+    "main.f5250672.js.map": "/alien-shop/static/js/main.f5250672.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.aea64316.css",
+    "static/js/main.f5250672.js"
+  ]
+}
