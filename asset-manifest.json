@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/alien-shop/static/css/main.aea64316.css",
-    "main.js": "/alien-shop/static/js/main.96721ce7.js",
-    "static/media/crown.svg": "/alien-shop/static/media/crown.11efd40920bfcdcd1edcae819c7a20a8.svg",
-    "static/media/shopping-bag.svg": "/alien-shop/static/media/shopping-bag.a688874f6f1507316bdfa420328a4a53.svg",
-    "index.html": "/alien-shop/index.html",
-    "main.aea64316.css.map": "/alien-shop/static/css/main.aea64316.css.map",
-    "main.96721ce7.js.map": "/alien-shop/static/js/main.96721ce7.js.map"
+    "main.css": "/static/css/main.aea64316.css",
+    "main.js": "/static/js/main.508cf1be.js",
+    "static/media/crown.svg": "/static/media/crown.11efd40920bfcdcd1edcae819c7a20a8.svg",
+    "static/media/shopping-bag.svg": "/static/media/shopping-bag.a688874f6f1507316bdfa420328a4a53.svg",
+    "index.html": "/index.html",
+    "main.aea64316.css.map": "/static/css/main.aea64316.css.map",
+    "main.508cf1be.js.map": "/static/js/main.508cf1be.js.map"
   },
   "entrypoints": [
     "static/css/main.aea64316.css",
-    "static/js/main.96721ce7.js"
+    "static/js/main.508cf1be.js"
   ]
 }
